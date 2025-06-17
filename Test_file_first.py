@@ -9,6 +9,7 @@ import diagrams
 
 # Print a simple greeting message to the console.
 # This could be an initial test print or part of the script's intended startup.
+# Git Commit Check 2
 print("hi there")
 
 def get_valid_float_input(prompt_message: str) -> float:
